@@ -1,7 +1,7 @@
 /*
 * Your job is to add the following styles to the page, use the classes or ids given where necesaary:
 * 1. Change the background color of the body to #F5F5F5
-* 2. Change the font family of the body to "Helvetica Neue", Helvetica, Arial, sans-serif
+* 2. Change the font family of the body to "Helvetica Neue", Helvetica, Helvetica, sans-serif
 * 3. Change the font size of the body to 14px
 * 4. Change the color of the h1 to #333333
 * 5. Change the color of the h2 to #333333
@@ -18,3 +18,51 @@
 * 16. Change the width of the submit button to 100px
 */
 
+.form_elements {
+    text-align: center;
+    border: #000000 solid 1px;
+    background: #f1e7e7;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 0px;
+    margin-left: 300px;
+    margin-right: 300px;
+    width: 60%;
+}
+
+h2 {
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+label {
+    padding: 0px;
+    margin: 0px;
+}
+
+input {
+    padding: 10px;
+    margin: 10px;
+}
+
+#submit {
+    background: green;
+    width: 200px;
+    color: #FFFFFF;
+}
+
+#first_name {
+    margin: 6px;
+}
+
+#first_name {
+    margin: 6px;
+}
+
+#email {
+    margin-left: 12px;
+    padding: 13px;
+}
+
+#eMAIL {
+    margin-left: 999;
+}
